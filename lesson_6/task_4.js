@@ -1,0 +1,1 @@
+document.write('Квадратный корень от <b>245</b> равен: ', '<b>' + Math.round(Math.sqrt(245)) + '</b>')
